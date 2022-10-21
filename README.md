@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MustafaKurt98
+- 👋 Hi, I’m Mustafa Kurt
 - 👀 I’m interested in mobile application development
 - 🌱 I’m currently learning Dart & Flutter
 
