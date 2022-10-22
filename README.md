@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mustafa Kurt
+- 👋 Hi, I’m Mustafa, I'm 24 years old
 - 👀 I’m interested in mobile application development
 - 🌱 I’m currently learning Dart & Flutter
 
