@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mustafa, I'm 25 years old
-- 👀 I’m interested in mobile development & UI-UX
-- 🌱 I’m currently learning Dart-Flutter and Figma
+- 📱 I’m interested in mobile development & UI-UX
+- 💙 I’m currently learning Dart-Flutter and Figma
 - 🧑🏻‍💻 I'm trying to learn node js recently
 
 <!---
