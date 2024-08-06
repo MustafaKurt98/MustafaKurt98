@@ -1,33 +1,9 @@
 ```dart
-class MustafaKurt {
-  final String name;
-  final String username;
-  final String location;
-  final int age;
-
-  MustafaKurt({
-    required this.name,
-    required this.username,
-    required this.location,
-    required this.age,
-  });
-
   MustafaKurt.defaultProfile()
       : name = "Mustafa",
         username = "Kurt",
         location = "Ankara, Turkey",
         age = 26;
-
-  @override
-  String toString() {
-    return 'Name: $name, Username: $username, Location: $location, Age: $age';
-  }
-}
-
-void main() {
-  var me = MustafaKurt.defaultProfile();
-  print(me);
-}
 ```
 
 
