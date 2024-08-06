@@ -12,7 +12,6 @@ class MustafaKurt {
     required this.age,
   });
 
-  // Named constructor for default values
   MustafaKurt.defaultProfile()
       : name = "Mustafa",
         username = "Kurt",
