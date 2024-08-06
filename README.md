@@ -1,17 +1,34 @@
-```python
-class MustafaKurt():
-    
-  def __init__(self):
-    self.name = "Mustafa";
-    self.username = "Kurt";
-    self.location = "Ankara, Turkey";
-    self.age = "26";
-  
-  def __str__(self):
-    return self.name
+```dart
+class MustafaKurt {
+  final String name;
+  final String username;
+  final String location;
+  final int age;
 
-if __name__ == '__main__':
-    me = MustafaKurt()
+  MustafaKurt({
+    required this.name,
+    required this.username,
+    required this.location,
+    required this.age,
+  });
+
+  // Named constructor for default values
+  MustafaKurt.defaultProfile()
+      : name = "Mustafa",
+        username = "Kurt",
+        location = "Ankara, Turkey",
+        age = 26;
+
+  @override
+  String toString() {
+    return 'Name: $name, Username: $username, Location: $location, Age: $age';
+  }
+}
+
+void main() {
+  var me = MustafaKurt.defaultProfile();
+  print(me);
+}
 ```
 
 
