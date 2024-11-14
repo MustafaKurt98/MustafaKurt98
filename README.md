@@ -25,7 +25,7 @@
 
 <div style="block-size: border-box; height: 25px"></div>
 
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MustafaKurt98/portfolio)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-027DFD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MustafaKurt98/portfolio)
 
 ```dart
   MustafaKurt.defaultProfile()
