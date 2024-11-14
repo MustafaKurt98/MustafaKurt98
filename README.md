@@ -38,8 +38,8 @@
 
 <details>
 <summary>
-  <h1 style="display: inline-block; background: linear-gradient(90deg, #ff0000, #00ff00, #0000ff, #ff0000); background-size: 400% 100%; color: transparent; background-clip: text; -webkit-background-clip: text; animation: shimmer 8s linear infinite;">
-    🌟 My Portfolio 🌟
+  <h1 style="display: inline-block;">
+    ⭐ <span style="background: linear-gradient(45deg, #12c2e9, #c471ed, #f64f59); -webkit-background-clip: text; color: transparent;">My Portfolio</span> ⭐
   </h1>
 </summary>
 
