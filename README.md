@@ -25,14 +25,7 @@
 
 <div style="block-size: border-box; height: 25px"></div>
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=MustafaKurt98&repo=my-portfolio)](https://github.com/MustafaKurt98/my-portfolio)
-
-<details>
-<summary>
-  <h1 style="display: inline-block;">
-    🚀 My Portfolio 💼
-  </h1>
-</summary>
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MustafaKurt98/portfolio)
 
 ```dart
   MustafaKurt.defaultProfile()
@@ -41,6 +34,14 @@
         location = "Ankara, Turkey",
         age = 26;
 ```
+
+<!-- <details>
+<summary>
+  <h1 style="display: inline-block;">
+    🚀 My Portfolio 💼
+  </h1>
+</summary>
+
 
 ## Professional Overview
 Versatile software developer specializing in cross-platform mobile development with Flutter and backend development using Node.js. Experienced in designing and implementing solutions with MongoDB and PostgreSQL databases, focusing on user experience and performance optimization. Proficient in deployment processes utilizing Git version control and AWS RDS infrastructure.
@@ -220,4 +221,4 @@ Versatile software developer specializing in cross-platform mobile development w
 
 
 </details>
-
+ -->
