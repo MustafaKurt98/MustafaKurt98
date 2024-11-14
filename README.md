@@ -1,11 +1,5 @@
-<!-- - 📱 I’m interested in mobile development & UI-UX
-- 💙 I’m currently learning Dart-Flutter and Figma
-- 🧑🏻‍💻 I'm trying to learn Node.js recently -->
-
-
-
 <div>
-<h1 style="font-family: Luminari, fantasy, 'Poppins'; letter-spacing: 5px;">MY ARSENAL</h1>
+<h1 style="font-family: Luminari, fantasy, 'Poppins'; letter-spacing: 5px;">My Interests</h1>
 <table>
   <tr style="border: none">
     <td style="border: none"><a href="https://flutter.dev"><img src="res/logo/flutter.png" width="90px" alt="Flutter Logo"/><a/></td>
@@ -145,8 +139,12 @@ Versatile software developer specializing in cross-platform mobile development w
 ### Nöbetçi Noter - Location Services Application
 *Notary office locator and information system*
 
-![Nöbetçi Noter Screenshot 1](./assets/images/nobetci_noter/screenshot1.png)
-![Nöbetçi Noter Ekran Görüntüsü 2](./assets/images/nobetci_noter/screenshot2.png)
+<div style="display: flex; flex-direction: row; gap: 10px; justify-content: space-between; align-items: center;">
+<img src="./assets/nobetci_noter/1.png" width="200" height="400" style="object-fit: cover;">
+<img src="./assets/nobetci_noter/2.png" width="200" height="400" style="object-fit: cover;">
+<img src="./assets/nobetci_noter/3.png" width="200" height="400" style="object-fit: cover;">
+<img src="./assets/nobetci_noter/4.png" width="200" height="400" style="object-fit: cover;">
+</div>
 
 **Teknik Altyapı:**
 - Flutter Framework
