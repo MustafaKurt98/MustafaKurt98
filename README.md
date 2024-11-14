@@ -24,8 +24,11 @@
 </div>
 
 <div style="block-size: border-box; height: 25px"></div>
-
-» [![Portfolio](https://img.shields.io/badge/My_Portfolio-027DFD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MustafaKurt98/portfolio) «
+<div align="center">
+  <a href="https://github.com/MustafaKurt98/portfolio">
+    <img src="https://img.shields.io/badge/📱_Portfolyoma_Göz_At_👀-027DFD?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
 ```dart
   MustafaKurt.defaultProfile()
