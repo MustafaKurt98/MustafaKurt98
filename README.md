@@ -7,9 +7,17 @@
 ```
 
 
-- 📱 I’m interested in mobile development & UI-UX
+<!-- - 📱 I’m interested in mobile development & UI-UX
 - 💙 I’m currently learning Dart-Flutter and Figma
-- 🧑🏻‍💻 I'm trying to learn Node.js recently
+- 🧑🏻‍💻 I'm trying to learn Node.js recently -->
+
+<details>
+<summary>My Portfolio Details</summary>
+
+<!-- Otomatik içerik çekme için -->
+{% include_relative my-portfolio/README.md %}
+
+</details>
 
 <div>
 <h1 style="font-family: Luminari, fantasy, 'Poppins'; letter-spacing: 5px;">MY ARSENAL</h1>
