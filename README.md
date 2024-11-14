@@ -37,7 +37,21 @@
 <div style="block-size: border-box; height: 25px"></div>
 
 <details>
-<summary><h1>My Portfolio</h1></summary>
+<summary><h1 style="background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1, #96e6a1);
+  background-size: 300% 300%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: gradient 3s ease infinite;
+  cursor: pointer;
+  font-size: 2.5em;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">My Portfolio</h1>
+<style>
+@keyframes gradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style></summary>
 
 ```dart
   MustafaKurt.defaultProfile()
@@ -159,7 +173,7 @@ Versatile software developer specializing in cross-platform mobile development w
 ---
 
 ### ASP Partstore - iOS & Android Application
-*Cross-platform perfume e-commerce application developed independently with Flutter, featuring integrated e-POS payment system*
+*Comprehensive e-commerce platform developed with Flutter, offering heavy machinery parts*
 
 <div style="display: flex; flex-direction: row; gap: 10px; justify-content: space-between; align-items: center;">
 <img src="./assets/asp_partstore/1.png" width="200" height="400" style="object-fit: cover;">
