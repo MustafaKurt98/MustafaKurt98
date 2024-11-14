@@ -38,17 +38,10 @@
 
 <details>
 <summary>
-  <h1 style="display: inline-block; background: linear-gradient(90deg, #000, #fff, #000); background-size: 200% 100%; color: transparent; background-clip: text; -webkit-background-clip: text; animation: shimmer 3s infinite;">
-    ✨ My Portfolio ✨
+  <h1 style="display: inline-block; background: linear-gradient(90deg, #ff0000, #00ff00, #0000ff, #ff0000); background-size: 400% 100%; color: transparent; background-clip: text; -webkit-background-clip: text; animation: shimmer 8s linear infinite;">
+    🌟 My Portfolio 🌟
   </h1>
 </summary>
-
-<style>
-@keyframes shimmer {
-  0% { background-position: -100% 0; }
-  100% { background-position: 100% 0; }
-}
-</style>
 
 ```dart
   MustafaKurt.defaultProfile()
