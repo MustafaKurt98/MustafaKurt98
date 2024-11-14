@@ -17,16 +17,16 @@
   </div>
 </div>
 
-<div align="center">
+<div >
   <p style="margin: 0;"> 
     Visitor count<br>
     <img src="https://profile-counter.glitch.me/MustafaKurt98/count.svg" /> 
   </p>
-</div>
+
 
 <div style="block-size: border-box; height: 50px"></div>
 
-<div align="center">
+<div>
   <a href="https://github.com/MustafaKurt98/my-portfolio">
     <img src="https://img.shields.io/badge/My_Portfolio-027DFD?style=for-the-badge&logo=github&logoColor=white" height="50" alt="Portfolio" />
   </a>
