@@ -37,32 +37,7 @@
 <div style="block-size: border-box; height: 25px"></div>
 
 <details>
-<summary><h1 style="position: relative; 
-  color: #333;
-  font-size: 2.5em;
-  font-weight: bold;
-  cursor: pointer;
-  overflow: hidden;">
-  My Portfolio
-  <span style="position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(
-      90deg,
-      transparent 0%,
-      rgba(255, 255, 255, 0.8) 50%,
-      transparent 100%
-    );
-    animation: shine 2s infinite linear;"></span>
-</h1>
-<style>
-@keyframes shine {
-  0% { transform: translateX(-100%); }
-  100% { transform: translateX(100%); }
-}
-</style></summary>
+<summary><div style="background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2em; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.2);">My Portfolio</div></summary>
 
 ```dart
   MustafaKurt.defaultProfile()
