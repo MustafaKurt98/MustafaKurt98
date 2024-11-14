@@ -27,7 +27,7 @@
 <div style="block-size: border-box; height: 50px"></div>
 
 <div>
-  <a href="https://github.com/MustafaKurt98/my-portfolio#professional-overview">
+  <a href="https://github.com/MustafaKurt98/my-portfolio?tab=readme-ov-file#professional-overview">
     <img src="https://img.shields.io/badge/My_Portfolio-027DFD?style=for-the-badge&logo=github&logoColor=white" height="50" alt="Portfolio" />
   </a>
 </div>
