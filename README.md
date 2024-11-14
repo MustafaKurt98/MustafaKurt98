@@ -25,6 +25,8 @@
 
 <div style="block-size: border-box; height: 25px"></div>
 
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=MustafaKurt98&repo=my-portfolio)](https://github.com/MustafaKurt98/my-portfolio)
+
 <details>
 <summary>
   <h1 style="display: inline-block;">
