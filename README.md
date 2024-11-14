@@ -37,19 +37,30 @@
 <div style="block-size: border-box; height: 25px"></div>
 
 <details>
-<summary><h1 style="background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1, #96e6a1);
-  background-size: 300% 300%;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: gradient 3s ease infinite;
-  cursor: pointer;
+<summary><h1 style="position: relative; 
+  color: #333;
   font-size: 2.5em;
-  text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">My Portfolio</h1>
+  font-weight: bold;
+  cursor: pointer;
+  overflow: hidden;">
+  My Portfolio
+  <span style="position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+      90deg,
+      transparent 0%,
+      rgba(255, 255, 255, 0.8) 50%,
+      transparent 100%
+    );
+    animation: shine 2s infinite linear;"></span>
+</h1>
 <style>
-@keyframes gradient {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
+@keyframes shine {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
 }
 </style></summary>
 
