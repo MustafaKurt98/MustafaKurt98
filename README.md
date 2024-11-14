@@ -1,6 +1,6 @@
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
   <div>
-    <h1 style="font-family: Luminari, fantasy, 'Poppins'; letter-spacing: 5px;">My Interests</h1>
+    <h1 style="font-family: Luminari, fantasy, 'Poppins'; letter-spacing: 5px; text-align: center;">My Interests</h1>
     <table>
       <tr style="border: none">
         <td style="border: none"><a href="https://flutter.dev"><img src="res/logo/flutter.png" width="90px" alt="Flutter Logo"/><a/></td>
@@ -24,20 +24,21 @@
   </p>
 </div>
 
-<div style="block-size: border-box; height: 25px"></div>
+<div style="block-size: border-box; height: 50px"></div>
+
 <div align="center">
   <a href="https://github.com/MustafaKurt98/my-portfolio">
     <img src="https://img.shields.io/badge/📱_Check_Out_My_Portfolio_👀-027DFD?style=for-the-badge&logo=github&logoColor=white" height="50" alt="Portfolio" />
   </a>
 </div>
 
-```dart
+<!-- ```dart
   MustafaKurt.defaultProfile()
       : name = "Mustafa",
         username = "Kurt",
         location = "Ankara, Turkey",
         age = 26;
-```
+``` -->
 
 <!-- <details>
 <summary>
