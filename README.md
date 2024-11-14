@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; flex-direction: row; justify-content: flex-start; align-items: center;">
   <div>
     <h1 style="font-family: Luminari, fantasy, 'Poppins'; letter-spacing: 5px;">My Interests</h1>
     <table>
@@ -15,9 +15,8 @@
       </tr>
     </table>
   </div>
-
-  <div>
-    <p align="center"> 
+  <div style="margin-left: 20px;">
+    <p style="margin: 0;"> 
       Visitor count<br>
       <img src="https://profile-counter.glitch.me/MustafaKurt98/count.svg" /> 
     </p>
