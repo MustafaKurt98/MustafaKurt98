@@ -1,7 +1,7 @@
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
-  <div>
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; width: 100%;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <h1 style="font-family: Luminari, fantasy, 'Poppins'; letter-spacing: 5px; text-align: center;">My Interests</h1>
-    <table>
+    <table style="margin: 0 auto;">
       <tr style="border: none">
         <td style="border: none"><a href="https://flutter.dev"><img src="res/logo/flutter.png" width="90px" alt="Flutter Logo"/><a/></td>
         <td style="border: none"><a href="https://www.javascript.com"><img src="res/logo/js.png" width="90px" alt="JavaScript Logo"/><a/></td>
@@ -17,16 +17,16 @@
   </div>
 </div>
 
-<div align="center">
-  <p style="margin: 0;"> 
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+  <p style="margin: 0; text-align: center;"> 
     Visitor count<br>
     <img src="https://profile-counter.glitch.me/MustafaKurt98/count.svg" /> 
   </p>
 </div>
 
-<div style="block-size: border-box; height: 50px"></div>
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; height: 50px;"></div>
 
-<div align="center">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
   <a href="https://github.com/MustafaKurt98/my-portfolio">
     <img src="https://img.shields.io/badge/📱_Check_Out_My_Portfolio_👀-027DFD?style=for-the-badge&logo=github&logoColor=white" height="50" alt="Portfolio" />
   </a>
