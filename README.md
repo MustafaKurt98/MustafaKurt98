@@ -15,9 +15,9 @@
 </table>
 </div>
 
-<div style="block-size: border-box; height: 15px"></div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felangel&layout=compact&langs_count=8&theme=transparent&size_weight=0.7&count_weight=0.3)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaKurt98&layout=compact&langs_count=8&theme=transparent&size_weight=0.7&count_weight=0.3)](https://github.com/anuraghazra/github-readme-stats)
 
+<div style="block-size: border-box; height: 15px"></div>
 <dl>
   <dd>
     <dl>
@@ -49,12 +49,14 @@
 ```
 
 ## Professional Overview
+
 Versatile software developer specializing in cross-platform mobile development with Flutter and backend development using Node.js. Experienced in designing and implementing solutions with MongoDB and PostgreSQL databases, focusing on user experience and performance optimization. Proficient in deployment processes utilizing Git version control and AWS RDS infrastructure.
 
 ## Featured Projects
 
 ### Perfume Atelier - iOS & Android Application
-*Cross-platform perfume e-commerce application developed independently with Flutter, featuring integrated e-POS payment system*
+
+_Cross-platform perfume e-commerce application developed independently with Flutter, featuring integrated e-POS payment system_
 
 <div style="display: flex; flex-direction: row; gap: 10px; justify-content: space-between; align-items: center;">
 <img src="./assets/perfume_atelier/IMG_2228-portrait.png" width="200" height="400" style="object-fit: cover;">
@@ -63,8 +65,8 @@ Versatile software developer specializing in cross-platform mobile development w
 <img src="./assets/perfume_atelier/IMG_2231-portrait.png" width="200" height="400" style="object-fit: cover;">
 </div>
 
-
 **Technical Infrastructure:**
+
 - Flutter Framework with Clean Architecture
 - State Management with GetIt & Provider
 - RESTful API Integration
@@ -73,15 +75,18 @@ Versatile software developer specializing in cross-platform mobile development w
 - FCM Push Notifications
 
 **App Stores:**
+
 - [App Store](https://apps.apple.com/tr/app/perfume-atelier/id6505069260?l=tr)
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.osicrew.perfume_atelier&hl=tr)
 
 ---
 
 ### Nanografi - Backend Development
-*Contribution to enterprise-level e-commerce platform*
+
+_Contribution to enterprise-level e-commerce platform_
 
 **Key Contributions:**
+
 - Implementation of robust API endpoints
 - Optimization of database queries
 - System performance improvements
@@ -91,7 +96,8 @@ Versatile software developer specializing in cross-platform mobile development w
 ---
 
 ### Tagitag - Mobile Application
-*Social media tagging and content management platform*
+
+_Social media tagging and content management platform_
 
 <div style="display: flex; flex-direction: row; gap: 10px; justify-content: space-between; align-items: center;">
   <img src="./assets/tagitag/1.png" width="180" height="360" style="object-fit: cover;">
@@ -104,6 +110,7 @@ Versatile software developer specializing in cross-platform mobile development w
   <img src="./assets/tagitag/6.png" width="180" height="360" style="object-fit: cover;">
 
 **Technical Details:**
+
 - Flutter/Dart
 - BLoC Architecture
 - Local Data Storage (Hive)
@@ -114,7 +121,8 @@ Versatile software developer specializing in cross-platform mobile development w
 ---
 
 ### Para Piyasam - Financial Markets Application
-*Real-time financial market tracking and analysis platform*
+
+_Real-time financial market tracking and analysis platform_
 
 <div style="display: flex; flex-direction: row; gap: 10px; justify-content: space-between; align-items: center;">
   <img src="./assets/para_piyasam/1.png" width="180" height="360" style="object-fit: cover;">
@@ -128,6 +136,7 @@ Versatile software developer specializing in cross-platform mobile development w
 </div>
 
 **Technical Architecture:**
+
 - Flutter Framework
 - GetX State Management
 - Real-Time Data Integration
@@ -138,7 +147,8 @@ Versatile software developer specializing in cross-platform mobile development w
 ---
 
 ### Nöbetçi Noter - Location Services Application
-*Notary office locator and information system*
+
+_Notary office locator and information system_
 
 <div style="display: flex; flex-direction: row; gap: 10px; justify-content: space-between; align-items: center;">
 <img src="./assets/nobetci_noter/1.png" width="200" height="400" style="object-fit: cover;">
@@ -148,6 +158,7 @@ Versatile software developer specializing in cross-platform mobile development w
 </div>
 
 **Technical Architecture:**
+
 - Flutter Framework
 - Google Maps Integration
 - Location Services
@@ -158,6 +169,7 @@ Versatile software developer specializing in cross-platform mobile development w
 ## Technical Expertise
 
 ### Development
+
 - Cross-Platform Mobile Development (Flutter)
 - App Store Publishing and Certification Process
 - Google Play Store Distribution and Publishing Management
@@ -171,6 +183,7 @@ Versatile software developer specializing in cross-platform mobile development w
 - AWS EC2
 
 ### Tools & Technologies
+
 - Version Control (Git)
 - CI/CD
 - Firebase Services
@@ -178,10 +191,9 @@ Versatile software developer specializing in cross-platform mobile development w
 - Analytics Integration
 
 ## Contact Information
+
 - E-mail: [mustafakurt98@outlook.com](mailto:mustafakurt98@outlook.com)
 - LinkedIn: [Mustafa Kurt](https://linkedin.com/in/mustafakurt98)
 - GitHub: [MustafaKurt98](https://github.com/mustafakurt98)
 
-
 </details>
-
