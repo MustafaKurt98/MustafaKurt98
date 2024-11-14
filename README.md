@@ -136,6 +136,48 @@ Versatile software developer specializing in cross-platform mobile development w
 
 ---
 
+### Mag Partstore - iOS & Android Application
+*Comprehensive e-commerce platform developed with Flutter, offering over 40,000 construction machinery parts*
+
+<div style="display: flex; flex-direction: row; gap: 10px; justify-content: space-between; align-items: center;">
+<img src="./assets/mag_store/1.webp" width="200" height="400" style="object-fit: cover;">
+<img src="./assets/mag_store/2.webp" width="200" height="400" style="object-fit: cover;">
+<img src="./assets/mag_store/3.webp" width="200" height="400" style="object-fit: cover;">
+</div>
+
+
+**Technical Infrastructure:**
+- Flutter Framework with Clean Architecture
+- State Management with GetX
+- RESTful API Integration
+- Firebase Crashlytics & Firebase Analytics
+
+**App Stores:**
+- [App Store](https://apps.apple.com/gb/app/mag-partstore/id6448987804)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.osicrew.mag_store)
+
+---
+
+### ASP Partstore - iOS & Android Application
+*Cross-platform perfume e-commerce application developed independently with Flutter, featuring integrated e-POS payment system*
+
+<div style="display: flex; flex-direction: row; gap: 10px; justify-content: space-between; align-items: center;">
+<img src="./assets/asp_partstore/1.png" width="200" height="400" style="object-fit: cover;">
+<img src="./assets/asp_partstore/2.png" width="200" height="400" style="object-fit: cover;">
+<img src="./assets/asp_partstore/3.png" width="200" height="400" style="object-fit: cover;">
+<img src="./assets/asp_partstore/4.png" width="200" height="400" style="object-fit: cover;">
+</div>
+
+
+**Technical Infrastructure:**
+- Flutter Framework with Clean Architecture
+- State Management with GetIt & GetX
+- RESTful API Integration
+- Firebase Crashlytics & Firebase Analytics
+
+
+---
+
 ### Nöbetçi Noter - Location Services Application
 *Notary office locator and information system*
 
