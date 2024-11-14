@@ -27,7 +27,7 @@
 <div style="block-size: border-box; height: 25px"></div>
 <div align="center">
   <a href="https://github.com/MustafaKurt98/my-portfolio">
-    <img src="https://img.shields.io/badge/📱_Portfolyoma_Göz_At_👀-027DFD?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/📱_Check_Out_My_Portfolio_👀-027DFD?style=for-the-badge&logo=github&logoColor=white" height="50" alt="Portfolio" />
   </a>
 </div>
 
