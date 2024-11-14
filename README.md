@@ -15,17 +15,18 @@
       </tr>
     </table>
   </div>
-  <div style="margin-left: 20px; text-align: center;">
-    <p style="margin: 0;"> 
-      Visitor count<br>
-      <img src="https://profile-counter.glitch.me/MustafaKurt98/count.svg" /> 
-    </p>
-  </div>
+</div>
+
+<div align="center">
+  <p style="margin: 0;"> 
+    Visitor count<br>
+    <img src="https://profile-counter.glitch.me/MustafaKurt98/count.svg" /> 
+  </p>
 </div>
 
 <div style="block-size: border-box; height: 25px"></div>
 <div align="center">
-  <a href="https://github.com/MustafaKurt98/portfolio">
+  <a href="https://github.com/MustafaKurt98/my-portfolio">
     <img src="https://img.shields.io/badge/📱_Portfolyoma_Göz_At_👀-027DFD?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
 </div>
