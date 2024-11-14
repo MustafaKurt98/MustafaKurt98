@@ -39,7 +39,7 @@
 <details>
 <summary>
   <h1 style="display: inline-block;">
-    ⭐ <span style="background: linear-gradient(45deg, #12c2e9, #c471ed, #f64f59); -webkit-background-clip: text; color: transparent;">My Portfolio</span> ⭐
+    🚀 My Portfolio 💼
   </h1>
 </summary>
 
