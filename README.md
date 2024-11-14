@@ -98,8 +98,15 @@ Versatile software developer specializing in cross-platform mobile development w
 ### Tagitag - Mobile Application
 *Social media tagging and content management platform*
 
-![Tagitag Screenshot 1](./assets/images/tagitag/screenshot1.png)
-![Tagitag Ekran Görüntüsü 2](./assets/images/tagitag/screenshot2.png)
+<div style="display: flex; flex-direction: row; gap: 10px; justify-content: space-between; align-items: center;">
+  <img src="./assets/tagitag/1.png" width="180" height="360" style="object-fit: cover;">
+  <img src="./assets/tagitag/2.png" width="180" height="360" style="object-fit: cover;">
+  <img src="./assets/tagitag/3.png" width="180" height="360" style="object-fit: cover;">
+</div>
+<div style="display: flex; flex-direction: row; gap: 10px; justify-content: space-between; align-items: center; margin-top: 10px;">
+  <img src="./assets/tagitag/4.png" width="180" height="360" style="object-fit: cover;">
+  <img src="./assets/tagitag/5.png" width="180" height="360" style="object-fit: cover;">
+  <img src="./assets/tagitag/6.png" width="180" height="360" style="object-fit: cover;">
 
 **Technical Details:**
 - Flutter/Dart
