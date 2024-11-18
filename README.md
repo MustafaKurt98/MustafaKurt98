@@ -7,11 +7,13 @@
         <td style="border: none"><a href="https://www.javascript.com"><img src="res/logo/js.png" width="90px" alt="JavaScript Logo"/><a/></td>
         <td style="border: none"><a href="https://aws.amazon.com"><img src="res/logo/aws.png" width="90px" alt="Amazon Web Sevices Logo"/><a/></td>
         <td style="border: none"><a href="https://www.mongodb.com"><img src="res/logo/mongo.png" width="90px" alt="MongoDb Logo"/><a/></td>
+        <td style="border: none"><a href="https://developer.android.com"><img src="res/logo/android-logo.png" width="90px" alt="Android Logo"/><a/></td>
       <tr style="border: none">
         <td style="border: none"><a href="https://nodejs.org/en/"><img src="res/logo/node.png" width="90px" alt="Node.js Logo"/><a/></td>
         <td style="border: none"><a href="http://expressjs.com"><img src="res/logo/express.png" width="90px" alt="express.js Logo"/><a/></td>
         <td style="border: none"><a href="https://www.npmjs.com"><img src="res/logo/npm.png" width="90px" alt="npm Logo"/><a/></td>
         <td style="border: none"><a href="https://www.postgresql.org"><img src="res/logo/psql.png" width="90px" alt="PSQL Logo"/><a/></td>
+        <td style="border: none"><a href="https://developer.apple.com"><img src="res/logo/ios-logo.png" width="90px" alt="PSQL Logo"/><a/></td>
       </tr>
     </table>
   </div>
